@@ -13,3 +13,8 @@ Should work on Windows, macOS and any flavour of Linux. It has, however, only be
 ## Build Instructions
 
 `g++ indicator.cpp -o INDicator`
+
+
+## Links
+- [wadtool - A tool for working with Music 2000 / MTV Music Generator wad/ind files](https://github.com/juju2143/wadtool)
+- [Music 2000 Community Discord Server](https://discord.gg/n8DNzxQ)
